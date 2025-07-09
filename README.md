@@ -104,26 +104,21 @@ Essas são as bibliotecas utilizadas no projeto:
 
 ### 🖼️ Prints do Aplicativo
 
-#### 🔐 Tela de Login
-![Login](./prints/01.png)
+### 🖼️ Prints do Aplicativo
 
-#### 🏠 Tela Inicial
-![Home](./prints/02.png)
+| 🔐 Login | 🏠 Inicial | 🛍️ Detalhes |
+|:--:|:--:|:--:|
+| <img src="./PRINTS/01.png" alt="Login" width="200"/> | <img src="./PRINTS/02.png" alt="Inicial" width="200"/> | <img src="./PRINTS/03.png" alt="Detalhes" width="200"/> |
 
-#### 🛒 Tela de Detalhes
-![Detalhes](./prints/03.png)
+| ✏️ Edição | 🗑️ Exclusão | ➕ Cadastro |
+|:--:|:--:|:--:|
+| <img src="./PRINTS/04.png" alt="Edição" width="200"/> | <img src="./PRINTS/05.png" alt="Exclusão" width="200"/> | <img src="./PRINTS/06.png" alt="Cadastro" width="200"/> |
 
-#### 🛒 Tela de Edição
-![Editar](./prints/04.png)
+| ⚙️ Configurações |  |  |
+|:--:|:--:|:--:|
+| <img src="./PRINTS/07.png" alt="Configurações" width="200"/> |  |  |
 
-#### 🛒 Tela de Exclusão
-![Excluir](./prints/05.png)
 
-#### 🛒 Tela de Cadastro
-![Cadastro](./prints/06.png)
-
-#### 🛒 Tela de Configurações
-![Configs](./prints/07.png)
 
 ### 👨‍💻 Autor
 - Kaio de Jesus Santana
